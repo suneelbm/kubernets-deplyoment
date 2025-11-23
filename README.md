@@ -1,0 +1,2 @@
+# kubernets-deplyoment
+kubernets deplyoment
